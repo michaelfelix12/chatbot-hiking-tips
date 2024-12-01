@@ -36,7 +36,7 @@ Ensure you have the following installed:
 4. Add Expertise Files
     Ensure you have the following files in the `dataset/` directory:
 
-        - `rules.txt`: Contains chatbot rules or configurations.
+-        `rules.txt`: Contains chatbot rules or configurations.
         - `hiking-tips-espertise.txt`: Contains expertise or domain-specific knowledge.
 
 ## Usage
