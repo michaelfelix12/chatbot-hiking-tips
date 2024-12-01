@@ -19,21 +19,21 @@ Ensure you have the following installed:
 
 ## Installation
 
-1.       Clone the Repository
+1. Clone the Repository
 
     `git clone https://github.com/yourusername/whatsapp-ai-chatbot.git`
     `cd whatsapp-ai-chatbot`
 
-2.       Install Dependencies
+2. Install Dependencies
 
     `npm install`
 
-3.       Set Environment Variables
+3. Set Environment Variables
 
     Create a .env file in the root directory and add your API key for Google Generative AI:
     `API_KEY=your_google_generative_ai_api_key`
 
-4.       Add Expertise Files
+4. Add Expertise Files
     Ensure you have the following files in the `dataset/` directory:
 
 - `rules.txt`: Contains chatbot rules or configurations.
@@ -41,12 +41,12 @@ Ensure you have the following installed:
 
 ## Usage
 
-1.       Start the Application
+1. Start the Application
 
     Run the chatbot with the following command:
     `node index.js`
 
-2.       Authenticate WhatsApp Web
+2. Authenticate WhatsApp Web
 
 - Scan the QR code displayed in the terminal using the WhatsApp app on your phone.
 - Once authenticated, the chatbot will be ready to handle messages.
