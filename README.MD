@@ -14,8 +14,8 @@ This project is a WhatsApp chatbot powered by Google Generative AI, designed to 
 
 Ensure you have the following installed:
 
-1.       Node.js (version 14 or higher)
-2.       WhatsApp account for testing.
+1. Node.js (version 14 or higher)
+2. WhatsApp account for testing.
 
 ## Installation
 
@@ -36,8 +36,8 @@ Ensure you have the following installed:
 4. Add Expertise Files
     Ensure you have the following files in the `dataset/` directory:
 
-- `rules.txt`: Contains chatbot rules or configurations.
-- `hiking-tips-espertise.txt`: Contains expertise or domain-specific knowledge.
+        - `rules.txt`: Contains chatbot rules or configurations.
+        - `hiking-tips-espertise.txt`: Contains expertise or domain-specific knowledge.
 
 ## Usage
 
